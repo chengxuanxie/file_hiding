@@ -7,7 +7,7 @@ import pickle
 from os import renames
 
 destdir= 'Q:'
-srcdir='Q:'
+srcdir=input('input a dir like: E:')
 type_list=['rmvb','avi','mp4','wmv','Avi','mkv']
 database_name=srcdir+'\\movie_name.sqlite'
 
