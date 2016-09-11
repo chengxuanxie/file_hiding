@@ -1,0 +1,6 @@
+如何使用此程序
+首先你应确保你的电脑上安装了python3.0。如果需要更改设置，目前只支持直接对代码进行修改，后续会考虑将程序打包并添加一些更方便的功能。如果你有好的意见你可以发起pull requeset或者直接向我发送邮件：504162491@qq.com
+
+how to use this program?
+you need to make sure you have python3.0 installed in your computor.change settings directly into fle_moving.py
+if you have any advice or good ideas ,please start a pull request or email me directly.my email address:504162491@qq.com
